@@ -1,0 +1,13 @@
+{
+  "name": "aws-long-lambda-js",
+  "version": "template-1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": "index.js",
+  "main": "index.js",
+  "author": "Pawel Skorupinski",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1330.0"
+  }
+}
